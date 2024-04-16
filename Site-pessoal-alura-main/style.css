@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.cabecalho {
+    background-color: #346651;
+    color: white;
+    display: block;
+    justify-content: space-around;
+    padding: 26px0; 
+}
+
+.cabecalho-lista-item{
+    font-size: 200%;
+    display: flex;
+    align-items: center;
+    padding: 26px0;
+    margin-left: 10%;
+}
+
+.cabecalho-lista-unica{
+    font-size: 100%;
+    display: block;
+    align-items: end;
+    padding: 26px0;
+}
+
+.cabecalho-imagem {
+    width: 50%;
+}
+
+
+.eu-imagem-um{
+    width: 12%;
+}
+
+
+.eu{
+    background-image: -moz-linear-gradient(#346651, #1A1414);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 26px0;
+}
+
+.div-eu-conteudo{
+    width: 50%;
+}
+
+.imagem-mais{
+    width: 300px;
+}
+
+.insta-imagem{
+    width: 24px;
+}
